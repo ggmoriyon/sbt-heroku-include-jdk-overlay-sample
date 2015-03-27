@@ -1,0 +1,2 @@
+This is a sample application to show the feature request: 
+include .jdk-overlay folder into the bundled jdk sent to Heroku into the slug
